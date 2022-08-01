@@ -1,0 +1,27 @@
+body {
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(31, 30, 30);
+}
+ p,
+ li {font-size: 20px;
+    color: rgb(31, 30, 30);
+}
+/*Home/Main Page Feature Head-line styling*/
+#home-para-style {
+    color: rgb(97, 13, 13);
+    font-size: larger;
+    font-weight: bold;
+    
+
+}
+
+/*links/anchors' removal of default under-line*/
+a {
+    text-decoration: none;
+}
